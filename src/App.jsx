@@ -270,6 +270,7 @@ function App() {
             <div className="notification__meta">
               <span>Channel: EmailJS + Browser</span>
               <span>Status: Delivered</span>
+              <span>Next: WhatsApp/SMS integration</span>
             </div>
           </div>
         </section>
